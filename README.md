@@ -9,23 +9,23 @@ Bachelor i "Informatikk: design, bruk og interaskjon" - UiO (Uteksamineres våre
 ### Bacheloroppgave 
 Gjennomførte en kvalitativ metasyntese med utgangspunkt i fem primærstudier. Resultatene ble analysert med metoden metaetnografi. Formålet var å undersøke hvilke fasilitatorer og barrierer barn og unge med cerebral parese og deres foresatte opplever i forbindelse med fysisk aktivitet.
 
-### Klinisk praksis
+### Klinisk praksis under studiet
 
-#### (2022 - Nå)
-
-#### Skolens poliklinikk () 
+#### Skolens poliklinikk 
 Erfaring med utredning og behandling av diverse muskelskjelettlidelser.
 
-#### Mensendieckgymnastikk () 
+#### Mensendieckgymnastikk
 Planlegging og gjennomføring av mensendieckgymnastikk for en fast gruppe sammen med to medstudenter. En time hver uke. Fikk erfaring med å samarbeide om å planlegge en treningstime og å være treningsinstruktør samt individuell veiledning innad i gruppa. Dette inkluderer tilpasning av øvelser etter den enkelte deltakers forutsetninger og behov.
 
-#### Oslo kommune bydel Ullern () 
+#### Oslo kommune bydel Ullern
 Erfaring fra arbeid i et mestringsteam med hjemmebesøk hos eldre for funksjonsvurdering og tilpasset trening.
 
-#### Lovisenberg Diakonale sykehus () 
+#### Lovisenberg Diakonale sykehus
 Medisinsk og kirurgisk avdeling: Har fra medisinsk avdeling erfaring med funksjonsvurdering og behandling av slag-, hjerte-, lunge-, intensiv og geriatriske pasienter. Fra kirurgisk avdeling erfaring med pasienter operert elektivt for innsetting av kne- og hofteproteser. 
 
 ### Karriere
+
+#### Fysioterapeut, Lørenskog Kommune (2022 - Nå)
 
 #### Turnustjeneste, Stor-Elvdal kommune (2022)
 Jeg har fått erfaring med utredning, veiledning og behandling av gastroopererte, lunge-, hjerte- og slagpasienter.

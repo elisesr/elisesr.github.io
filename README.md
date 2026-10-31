@@ -12,13 +12,25 @@ Bachelor i "Informatikk: design, bruk og interaskjon" - UiO (Uteksamineres våre
 Gjennomførte en kvalitativ metasyntese med utgangspunkt i fem primærstudier. Resultatene ble analysert med metoden metaetnografi. Formålet var å undersøke hvilke fasilitatorer og barrierer barn og unge med cerebral parese og deres foresatte opplever i forbindelse med fysisk aktivitet.
 
 ### Klinisk praksis
-(2022 - Nå)
+
+#### (2022 - Nå)
 
 () Skolens poliklinikk: Erfaring med utredning og behandling av diverse muskelskjelettlidelser.
 
-() Mensendieckgymnastikk: Planlegging og gjennomføring av mensendieckgymnastikk for en fast gruppe sammen med to medstudenter. En time hver uke. Fikk erfaring med å samarbeide om å planlegge en treningstime og å være treningsinstruktør samt individuell veiledning innad i gruppa. Dette inkluderer tilpasning av øvelser etter den enkelte deltakers forutsetninger og behov.
+#### () 
+Mensendieckgymnastikk: Planlegging og gjennomføring av mensendieckgymnastikk for en fast gruppe sammen med to medstudenter. En time hver uke. Fikk erfaring med å samarbeide om å planlegge en treningstime og å være treningsinstruktør samt individuell veiledning innad i gruppa. Dette inkluderer tilpasning av øvelser etter den enkelte deltakers forutsetninger og behov.
 
-() Oslo kommune bydel Ullern: Erfaring fra arbeid i et mestringsteam med hjemmebesøk hos eldre for funksjonsvurdering og tilpasset trening.
+#### () 
+Oslo kommune bydel Ullern: Erfaring fra arbeid i et mestringsteam med hjemmebesøk hos eldre for funksjonsvurdering og tilpasset trening.
 
-() Lovisenberg Diakonale sykehus, medisinsk og kirurgisk avdeling: Har fra medisinsk avdeling erfaring med funksjonsvurdering og behandling av slag-, hjerte-, lunge-, intensiv og geriatriske pasienter. Fra kirurgisk avdeling erfaring med pasienter operert elektivt for innsetting av kne- og hofteproteser. 
+#### () 
+Lovisenberg Diakonale sykehus, medisinsk og kirurgisk avdeling: Har fra medisinsk avdeling erfaring med funksjonsvurdering og behandling av slag-, hjerte-, lunge-, intensiv og geriatriske pasienter. Fra kirurgisk avdeling erfaring med pasienter operert elektivt for innsetting av kne- og hofteproteser. 
+
+### Karriere
+
+#### Turnustjeneste, Stor-Elvdal kommune (2022)
+Jeg har fått erfaring med utredning, veiledning og behandling av gastroopererte, lunge-, hjerte- og slagpasienter.
+Jeg tar med meg mye kunnskap innenfor lungefysioterapi. Fått erfaring med diverse metoder for slimmobilisering og for å påvirke pasientens respirasjon, inkludert manuelle teknikker, tilpasning og veiledning i miniPEP og bruk av hostemaskin. Fått mye kunnskap og erfaring innen slagutredning og opptrening i akuttfase. Fått erfaring i å vurdere pasientens fysiske funksjon ved ankomst, underveis og før utskrivelse. Har også fått erfaring med pre- og postoperativ oppfølging av pasienter før og etter gjennomgått kar-/gastrokirurgi, samt vurdering av behov for ganghjelpemiddel.
+
+
 

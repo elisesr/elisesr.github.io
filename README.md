@@ -1,5 +1,3 @@
-# CV - Elise Stenger Rosnes
-
 ## Utdanning
 
 Bachelor i fysioterapi - studieretning Mensendieck - Oslo Metropolitan University (Uteksaminert 2021)
